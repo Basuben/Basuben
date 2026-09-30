@@ -2,8 +2,6 @@
 
 Fraud and risk analyst in Nairobi, Kenya. I investigate fraud, monitor transactions and document cases for a digital lender, and I report trends to stakeholders across four countries. I have been recognized as a top performer among fraud analysts in the Kenya market.
 
-I was the first person in my family and village to study past secondary school. I finished a BSc in Finance in 2023, and I have been building on it ever since.
-
 ## What I work on
 
 | Area | What that looks like |
