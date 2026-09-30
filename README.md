@@ -31,7 +31,7 @@ Both projects use made-up data only. Nothing from my employer or its customers i
 ## Learning
 
 - Working towards CAMS, CFE and CISA.
-- Hold the CPA Foundation qualification.
+- Hold the CPA  qualification.
 - Took part in the CFA Institute Annual Investment Research Challenge in 2023, where I led the ratio analysis on The Co-operative Bank of Kenya for a panel of working analysts.
 
 ## Get in touch
